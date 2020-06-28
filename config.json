@@ -1,0 +1,10 @@
+{
+  "track_id": "05ab1e",
+  "language": "05AB1E",
+  "active": false,
+  "blurb": "",
+  "ignore_pattern": "[Ee]xample",
+  "solution_pattern": "[Ee]xample",
+  "test_pattern": "[Tt]est",
+  "exercises": null
+}
