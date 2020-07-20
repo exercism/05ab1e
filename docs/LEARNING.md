@@ -1,0 +1,1 @@
+05AB1E is a very easy to learn langauge, you can check out the [official tutorial](https://github.com/Adriandmen/05AB1E). Also there's an instruction reference in the [wiki](https://github.com/Adriandmen/05AB1E/wiki).
